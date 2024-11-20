@@ -1,0 +1,13 @@
+{
+  "name": "com.redshoregames.editor",
+  "displayName": "Red Shore Games Editor Package",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "author": "Red Shore Games",
+  "description": "This is an editor package to make useful editor improvements!",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Red-Shore-Games/com.redshoregames.editor.git"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "RedShoreGames.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6a73004b4dc834480899e19faff5dfd8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
